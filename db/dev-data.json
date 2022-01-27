@@ -1,0 +1,22 @@
+[
+  {
+    "title": "A Guide To The River Arts District, Asheville Nc (Why, What, And HoW)",
+    "description": "From the coffee to urban wine, restaurants and skate parks, art in its various mediums and form is the focus of the River Arts District in Downtown Asheville. Paintings adorn the walls, sculptures stand proud in gardens, murals form the backsplashes to bars, and graffiti wraps around the revitalized warehouses and brick buildings of the region.",
+    "author": "Caroline Makepeace",
+    "date": "January 22, 2022",
+    "rating": 4.5,
+    "expense": 599,
+    "location": "Asheville, NC",
+    "approve": false
+  },
+  {
+    "title": "The Not So Lost Year",
+    "description": "At the end of 2020, I wrote about trying to recover what I called “the lost year” — the year in which I got COVID, saw all my businesses collapse, took out tons of loans to avoid bankruptcy, and, like everyone, had to put all my life plans (settling down, buying a house, joining some social clubs, dating) on a seemingly endless hold.",
+    "author": "Rupok Koiry",
+    "date": "12/21/2021",
+    "rating": 3.8,
+    "expense": 699,
+    "location": "New York, NY",
+    "approve": true
+  }
+]
