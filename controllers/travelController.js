@@ -48,7 +48,7 @@ const getBlog = async (req, res) => {
 };
 const getAllBlog = async (req, res) => {
   const page = +req.query._page || 1;
-  const limit = +req.query._limit || 10;
+  const limit = +req.query._limit || 99;
   const skip = (page - 1) * limit;
   const response = await db
     .getDb()
